@@ -23,6 +23,6 @@ tartışmak için bir konu açınız.
 
 ## Licence
 
-[MIT] (C:\Users\Furkan\Desktop\githomework1\kodluyoruzilkrepo\LICENCE)
+[MIT] (https://www.mit.edu/~amini/LICENSE.md)
 
 
