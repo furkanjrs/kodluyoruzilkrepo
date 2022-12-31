@@ -23,6 +23,6 @@ tartışmak için bir konu açınız.
 
 ## Licence
 
-[MIT] (https://www.mit.edu/~amini/LICENSE.md)
+[MIT](https://www.mit.edu/~amini/LICENSE.md)
 
 
